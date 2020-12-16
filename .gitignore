@@ -1,0 +1,23 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.vscode
+.vs
+.idea
+node_modules/
+build/
+Session.vim
+dist
+.idea/**
+!.idea/
+!.idea/runConfigurations/
+!.idea/runConfigurations/**
+.npmrc
+yarn.lock
+package-lock.json
+.yarnrc
+yarn-error.log
+
